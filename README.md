@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-- Live Site URL: [Omelette Recipe Page](https_url_here)
+- Live Site URL: [Omelette Recipe Page](https://konarsada.github.io/receipe-page/)
 
 ## The challenge
 
