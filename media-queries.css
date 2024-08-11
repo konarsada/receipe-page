@@ -1,0 +1,31 @@
+@media screen and (max-width: 430px) {
+    main {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    main,
+    .image-container>img {
+        border-radius: 0;
+    }
+
+    .intro-section h1 {
+        padding-left: 2rem;
+        font-size: 2rem;
+    }
+
+    /* header section:not(:first-child), */
+    header section:nth-child(2),
+    article:last-child {
+        padding: 0 2rem;
+    }
+
+    .preparation-time {
+        margin: 2rem;
+    }
+
+    footer {
+        margin-block: 1rem;
+    }
+}
